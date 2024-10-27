@@ -21,3 +21,4 @@ and motivation.
 
 Meme uses a combination of computer vision and machine learning techniques to detect faces on the screen and draw a green border around each face with text.
 
+![](img.jpg)
